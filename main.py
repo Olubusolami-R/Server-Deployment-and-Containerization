@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+#trigger build 1
 """
 A simple app to create a JWT token.
 """
